@@ -1,5 +1,7 @@
 Reflexión - Semana 3
 
-El aprendizaje de Git esta semana me permite comprender cómo funciona el control de versiones en el desarrollo de software. Es una herramienta poderosa porque ayuda a evitar la pérdida de información y facilita volver a versiones anteriores si algo sale mal.
+¿Por qué es importante que los proyectos de software mantengan un registro de cambios usando herramientas como Git?
 
-Además, entender la diferencia entre trabajar de forma local con Git y almacenar el trabajo de forma remota en GitHub es fundamental para el trabajo en equipo, ya que abre la puerta a la colaboración masiva en proyectos tecnológicos y sociales de forma ordenada.
+Es importante que los proyectos de software mantengan un registro de cambios con herramientas como Git porque permite llevar un control de las modificaciones realizadas, identificar quién hizo cada cambio y recuperar versiones anteriores en caso de errores. Esto ayuda a mantener el proyecto organizado y seguro.
+
+Además, Git facilita el trabajo colaborativo entre varios desarrolladores, ya que todos pueden aportar cambios sin perder información. Gracias al historial de versiones, es más sencillo revisar, corregir y mejorar el software de manera eficiente.
