@@ -1,0 +1,15 @@
+Pruebas de consulta de reportes (GET /reportes)
+
+Cuando se consulta la ruta GET http://localhost:3000/reportes después de registrar un reporte mediante una petición POST, el servidor responde con un array (lista) de objetos en formato JSON que contiene todos los reportes guardados temporalmente en la memoria (el array "reportes").
+
+Ejemplo de respuesta obtenida:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Explicación:
+El método GET devuelve la lista completa almacenada en memoria. Si no se ha enviado ninguna petición POST previamente, la respuesta será una lista vacía [].
