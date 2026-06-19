@@ -1,0 +1,5 @@
+Reflexión - Semana 4
+
+Comprender la estructura de un proyecto en Node.js y el uso de Express me abre las puertas al desarrollo web del lado del servidor (backend). 
+
+Node.js y npm facilitan la descarga y gestión de paquetes externos de forma sencilla y estructurada. Por su parte, Express permite construir servidores y crear rutas web de manera limpia y organizada. Estas herramientas son fundamentales para crear aplicaciones web completas que puedan responder a los usuarios y conectar con bases de datos.
