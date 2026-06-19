@@ -1,0 +1,3 @@
+Comandos de la Terminal - Semana 2
+
+[Aquí registraremos los comandos utilizados en la terminal para los ejercicios prácticos]
