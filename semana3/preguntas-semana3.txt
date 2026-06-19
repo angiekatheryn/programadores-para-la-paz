@@ -1,0 +1,14 @@
+Preguntas de Selección Múltiple - Semana 3
+
+Pregunta 1
+¿Qué es Git?
+
+A. Un sistema operativo
+
+B. Un sistema de control de versiones para registrar cambios en proyectos
+
+C. Una red social para programadores
+
+D. Un editor de texto
+
+Respuesta seleccionada: B

@@ -1,0 +1,5 @@
+Reflexión - Semana 3
+
+El aprendizaje de Git esta semana me permite comprender cómo funciona el control de versiones en el desarrollo de software. Es una herramienta poderosa porque ayuda a evitar la pérdida de información y facilita volver a versiones anteriores si algo sale mal.
+
+Además, entender la diferencia entre trabajar de forma local con Git y almacenar el trabajo de forma remota en GitHub es fundamental para el trabajo en equipo, ya que abre la puerta a la colaboración masiva en proyectos tecnológicos y sociales de forma ordenada.

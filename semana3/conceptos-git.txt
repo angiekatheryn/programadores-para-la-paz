@@ -1,0 +1,22 @@
+Conceptos de Git - Semana 3
+
+1. ¿Qué es Git?
+Git es un sistema de control de versiones distribuido de código abierto. Permite rastrear el historial de cambios en los archivos de un proyecto y facilita el trabajo colaborativo.
+
+2. Diferencia entre Git y GitHub:
+* Git: Es la herramienta de software instalada de forma local en tu computadora para gestionar las versiones del proyecto.
+* GitHub: Es una plataforma en la nube (sitio web) que aloja repositorios de Git y permite compartir el código y colaborar con otros en línea.
+
+3. Áreas de trabajo en Git:
+* Directorio de trabajo (Working Directory): Carpeta local en tu computador donde modificas tus archivos.
+* Área de preparación (Staging Area): Un espacio temporal donde marcas qué cambios quieres incluir en la siguiente foto o commit.
+* Repositorio (Repository): Donde Git guarda permanentemente el historial y las instantáneas (commits) de tu proyecto.
+
+4. Comandos básicos:
+* git init: Inicializa un repositorio local de Git.
+* git clone [url]: Descarga un repositorio existente desde GitHub a tu computador.
+* git status: Muestra qué archivos se han modificado y en qué estado están.
+* git add [archivo]: Pasa los archivos del directorio de trabajo al Staging Area.
+* git commit -m "mensaje": Guarda una instantánea de los archivos preparados en el historial.
+* git pull: Descarga y combina los cambios del servidor remoto en tu computador.
+* git push: Sube tus confirmaciones (commits) locales a GitHub.
