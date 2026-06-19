@@ -1,0 +1,10 @@
+Conceptos API - Semana 5
+
+¿Qué hace esta ruta?
+La ruta POST /reporte recibe solicitudes HTTP mediante el método POST. Permite que el cliente envíe datos en formato JSON en el cuerpo del mensaje (body). El servidor lee el valor de "mensaje" utilizando express.json() y responde con una confirmación en formato JSON indicando que el reporte fue recibido correctamente, mostrando el mensaje original.
+
+¿Para qué podría servir en una aplicación comunitaria?
+Esta ruta POST podría servir para centralizar reportes de los miembros de una comunidad en tiempo real. Por ejemplo:
+1. Reportar daños o problemas en la infraestructura pública (como un poste de luz fundido o un bache en la calle).
+2. Enviar alertas de seguridad vecinal o emergencias directamente a una base de datos.
+3. Permitir que los vecinos envíen propuestas, sugerencias o quejas a un canal organizado para su posterior análisis.

@@ -1,0 +1,13 @@
+Pruebas de Rutas - Semana 5
+
+1. http://localhost:3000
+Respuesta obtenida: "Servidor activo"
+Descripción: Indica que el servidor está respondiendo correctamente desde la ruta raíz (GET /).
+
+2. http://localhost:3000/saludo
+Respuesta obtenida: "Hola comunidad"
+Descripción: Devuelve un mensaje de saludo general y estático para todos los usuarios (GET /saludo).
+
+3. http://localhost:3000/mensaje/juan
+Respuesta obtenida: "Hola juan"
+Descripción: Utiliza un parámetro de ruta dinámico (:nombre) para capturar el valor "juan" de la URL y generar un saludo personalizado (GET /mensaje/:nombre).
