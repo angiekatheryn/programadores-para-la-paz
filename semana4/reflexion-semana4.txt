@@ -1,12 +1,5 @@
 Reflexión - Semana 4
 
-Es fundamental que las comunidades construyan sus propias herramientas con tecnologías abiertas
-como Node.js, ya que esto les otorga soberanía tecnológica y reduce la dependencia de grandes
-corporaciones de software privado. Al utilizar código abierto, se promueve la transparencia,
-la colaboración comunitaria y se democratiza el acceso al conocimiento, permitiendo que
-cualquier persona aprenda, audite y mejore las herramientas.
+¿Por qué es importante que las comunidades o iniciativas ciudadanas puedan construir herramientas tecnológicas propias utilizando tecnologías abiertas como Node.js?
 
-Además, el desarrollo propio garantiza el control sobre los datos locales, protegiendo la
-privacidad colectiva. Esto empodera a las iniciativas ciudadanas para resolver problemas
-específicos de sus territorios de manera independiente, creando soluciones digitales para
-la educación, la participación democrática y la construcción de la paz social.
+Es importante que las comunidades e iniciativas ciudadanas puedan construir sus propias herramientas tecnológicas porque así pueden responder a sus necesidades de manera autónoma. Las tecnologías abiertas como Node.js permiten desarrollar aplicaciones sin depender de programas propietarios costosos. Además, fomentan la colaboración y el intercambio de conocimientos entre las personas. Estas herramientas pueden adaptarse fácilmente a diferentes contextos y problemas locales. También favorecen la innovación y el aprendizaje de habilidades digitales. El uso de software abierto contribuye a la participación ciudadana y al trabajo en equipo. Asimismo, permite mejorar servicios y proyectos comunitarios. De esta manera, la tecnología se convierte en un recurso accesible para todos y fortalece el desarrollo social y tecnológico de las comunidades.
