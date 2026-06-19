@@ -1,0 +1,12 @@
+Qué ocurre cuando ejecutas node server.js:
+Al ejecutar "node server.js", Node.js corre el script, levantando un servidor web básico utilizando la librería Express, el cual queda escuchando peticiones HTTP en el puerto 3000 de forma indefinida en segundo plano hasta que se detenga manualmente el proceso.
+
+Qué mensaje aparece en la terminal:
+"Servidor ejecutándose en puerto 3000"
+
+Qué sucede cuando visitas la ruta /estado:
+El servidor procesa la petición GET a la dirección "http://localhost:3000/estado" y devuelve un objeto JSON que representa el estado actual del servicio:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}

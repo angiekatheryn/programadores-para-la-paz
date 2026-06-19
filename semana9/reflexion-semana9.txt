@@ -1,0 +1,13 @@
+Reflexión - Semana 9
+
+Garantizar la estabilidad y seguridad de las plataformas tecnológicas comunitarias en un servidor es
+fundamental por varias razones clave. En primer lugar, la estabilidad asegura que las herramientas
+estén siempre disponibles cuando los miembros de la comunidad las necesiten, lo cual es vital para
+la efectividad de canales de alertas tempranas, reportes vecinales o información de utilidad pública.
+Si un servidor se cae frecuentemente, se pierde la confianza en la herramienta y se interrumpe la
+comunicación comunitaria en momentos críticos.
+
+Asimismo, la seguridad en el servidor protege los datos de los usuarios frente a intrusiones no autorizadas
+o filtraciones. Esto es de suma importancia en iniciativas sociales, ya que resguarda la privacidad
+e integridad de los participantes y previene ataques cibernéticos orientados a desprestigiar o alterar
+los procesos de organización comunitaria.
