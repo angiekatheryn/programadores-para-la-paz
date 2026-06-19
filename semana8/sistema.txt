@@ -1,0 +1,8 @@
+uname -a:
+Muestra información detallada sobre el sistema operativo, la arquitectura del hardware (como x86_64 o ARM), el nombre de host del sistema y la versión del kernel (núcleo) de Linux que se está ejecutando.
+
+whoami:
+Muestra el nombre del usuario activo que está ejecutando la sesión actual en la terminal.
+
+¿Por qué es útil conocer información del sistema al administrar un servidor?
+Es fundamental porque nos permite saber qué versión exacta del sistema operativo y qué arquitectura de hardware se está utilizando para poder descargar e instalar software y paquetes compatibles. También ayuda a identificar el kernel actual para saber si requiere parches de seguridad, y auditar con qué usuario se ejecutan los servicios para evitar escaladas de privilegios o riesgos de seguridad innecesarios.

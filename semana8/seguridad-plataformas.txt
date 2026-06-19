@@ -1,0 +1,5 @@
+1. No exponer datos personales (minimizar la cantidad de información personal almacenada o expuesta públicamente).
+2. Proteger credenciales (usar claves seguras y almacenamiento cifrado).
+3. Usar conexiones seguras (por ejemplo, protocolo HTTPS para cifrar el tráfico de datos).
+4. Registrar accesos (mantener logs de auditoría para detectar accesos inusuales o no autorizados).
+5. Limitar acceso a información sensible (aplicar el principio de mínimo privilegio para que solo los administradores autorizados puedan ver datos críticos).
