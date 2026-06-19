@@ -1,3 +1,7 @@
-Comandos de la Terminal - Semana 2
-
-[Aquí registraremos los comandos utilizados en la terminal para los ejercicios prácticos]
+pwd
+ls
+mkdir semana2
+cd semana2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt

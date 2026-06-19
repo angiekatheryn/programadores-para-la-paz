@@ -1,3 +1,5 @@
 Reflexión - Semana 2
 
-[Aquí escribiremos la reflexión sobre el aprendizaje del uso de la terminal y Git/GitHub]
+Aprender a usar la terminal y comandos básicos (`pwd`, `ls`, `mkdir`, `cd`, `touch`) me permite interactuar de forma más directa y eficiente con el sistema. 
+
+El uso conjunto de la terminal con Git y GitHub facilita la organización del trabajo, permitiendo llevar un registro ordenado del progreso de mis proyectos y compartir el trabajo de manera colaborativa, segura y transparente.
