@@ -1,14 +1,13 @@
 Preguntas de Selección Múltiple - Semana 3
 
-Pregunta 1
-¿Qué es Git?
+Pregunta 1: ¿Qué es Git?
+Respuesta: B. Un sistema de control de versiones para registrar cambios en proyectos.
 
-A. Un sistema operativo
+Pregunta 2: ¿Cuál es la función principal de un repositorio?
+Respuesta: B. Registrar y organizar los archivos y cambios de un proyecto.
 
-B. Un sistema de control de versiones para registrar cambios en proyectos
+Pregunta 3: ¿Qué hace el comando git add .?
+Respuesta: B. Agrega archivos al área de preparación para registrar cambios.
 
-C. Una red social para programadores
-
-D. Un editor de texto
-
-Respuesta seleccionada: B
+Pregunta 4: ¿Qué hace el comando git commit?
+Respuesta: A. Guarda un registro de cambios realizados en el proyecto.
