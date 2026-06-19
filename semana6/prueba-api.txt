@@ -1,0 +1,18 @@
+Petición POST enviada a:
+http://localhost:3000/registro
+
+Cuerpo de la petición (JSON):
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Respuesta devuelta por el servidor (JSON):
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Explicación:
+El servidor Express, gracias al middleware express.json(), lee los campos "nombre" y "mensaje" desde el cuerpo de la petición (req.body) y los devuelve de vuelta estructurados en formato JSON junto con el estado de confirmación.
