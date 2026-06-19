@@ -1,15 +1,15 @@
-Pregunta 1: ¿Qué es un servidor en una aplicación web?
+Pregunta 1:,¿Qué es un sistema operativo?
 
-Respuesta: B. Un sistema que ejecuta aplicaciones y responde solicitudes de los usuarios.
+Respuesta: B. El software que administra el hardware y permite ejecutar programas.
 
-Pregunta 2: ¿Qué significa que un servidor escuche en un puerto?
+Pregunta 2:m¿Cuál de los siguientes es un sistema operativo de código abierto?
 
-Respuesta: B. Que el servidor está esperando solicitudes en una dirección específica.
+Respuesta: A. Ubuntu
 
-Pregunta 3: ¿Cuál de los siguientes elementos es importante para la estabilidad de un servidor?
+Pregunta 3: ¿Qué es la terminal en un sistema Linux?
 
-Respuesta: B. Monitorear ejecución y registrar errores.
+Respuesta: B. Una interfaz que permite ejecutar comandos directamente en el sistema.
 
-Pregunta 4: ¿Qué son los logs en un servidor?
+Pregunta 4: ¿Cuál de las siguientes prácticas mejora la seguridad digital?
 
-Respuesta: A. Archivos que registran la actividad y eventos del sistema.
+Respuesta: B. Usar contraseñas fuertes y proteger credenciales.
