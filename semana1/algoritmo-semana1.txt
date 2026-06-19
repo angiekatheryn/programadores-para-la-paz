@@ -1,0 +1,3 @@
+Algoritmo - Semana 1
+
+Escribe aquí tu algoritmo o pseudocódigo para resolver el ejercicio planteado esta semana.
