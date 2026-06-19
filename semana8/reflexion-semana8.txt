@@ -1,12 +1,5 @@
 Reflexión - Semana 8
 
-La seguridad digital es un pilar indispensable para proteger las plataformas tecnológicas comunitarias
-y los procesos participativos por diversas razones fundamentales. En primer lugar, estas plataformas
-suelen almacenar información de ciudadanos activos, líderes locales e iniciativas territoriales, por lo
-que una falla de seguridad podría exponer datos personales sensibles y poner en riesgo la integridad de
-las personas. Asimismo, garantizar la confidencialidad de la información y la disponibilidad del servicio
-ayuda a prevenir ataques que busquen sabotear, alterar o desinformar los canales democráticos de la comunidad.
+¿Por qué es importante que las plataformas tecnológicas que usan las comunidades funcionen de manera estable y segura en un servidor?
 
-Además, mantener un entorno digital seguro genera confianza, lo que incentiva una mayor participación
-de los vecinos en la toma de decisiones. Al proteger los sistemas con buenas prácticas de seguridad,
-las comunidades aseguran su autonomía y resiliencia frente a amenazas externas de carácter digital.
+Es importante que las plataformas tecnológicas de las comunidades funcionen de manera estable y segura en un servidor porque de ello depende que la información esté siempre disponible cuando se necesite. Si el servidor falla, los usuarios pueden perder acceso a reportes, alertas o servicios importantes. La estabilidad permite que la plataforma responda rápido y sin interrupciones. La seguridad protege los datos de los ciudadanos y evita que personas no autorizadas los modifiquen o los roben. También ayuda a mantener la confianza de la comunidad en la herramienta. Un servidor bien administrado permite detectar errores a tiempo mediante registros o logs. Además, facilita el mantenimiento y las actualizaciones sin afectar el servicio. En general, un sistema estable y seguro garantiza que la plataforma sea confiable y útil para todos.
