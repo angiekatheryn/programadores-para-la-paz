@@ -1,3 +1,7 @@
 Reflexión - Semana 2
 
-[Aquí escribiremos la reflexión sobre el aprendizaje del uso de la terminal y Git/GitHub]
+¿Por qué es importante para un desarrollador saber usar la terminal para navegar y organizar archivos dentro de un proyecto?
+
+Es importante que un desarrollador sepa usar la terminal porque le permite navegar, organizar y administrar los archivos y carpetas de un proyecto de manera rápida y eficiente. Mediante comandos puede crear, mover, copiar o eliminar archivos sin depender de una interfaz gráfica, lo que agiliza el trabajo y facilita la automatización de tareas.
+
+Además, muchas herramientas de desarrollo, como Git, gestores de paquetes y servidores, se controlan desde la terminal. Por ello, dominarla ayuda a trabajar de forma más profesional, mejorar la productividad y colaborar de manera más efectiva en proyectos de software.
