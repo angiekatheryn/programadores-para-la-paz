@@ -1,12 +1,5 @@
 Reflexión - Semana 7
 
-Poder registrar y consultar reportes sobre incidencias locales a través de una plataforma tecnológica
-ofrece un canal de participación directa muy valioso para las comunidades. En primer lugar, este
-proceso promueve la autogestión y el empoderamiento de los habitantes, quienes asumen un rol activo
-en la mejora de su entorno al poder denunciar fallas y proponer soluciones. Al quedar los reportes
-visibles para consulta pública, se fomenta la transparencia, la rendición de cuentas de las entidades
-responsables y se evita la duplicidad de reportes sobre una misma problemática en la zona.
+¿Por qué es importante que las comunidades puedan registrar y consultar reportes o incidencias en una plataforma tecnológica?
 
-Asimismo, la recuperación sistemática de esta información permite generar estadísticas precisas
-sobre las fallas más comunes. Esto provee argumentos sólidos basados en evidencias para que los líderes
-comunitarios gestionen eficientemente recursos y apoyo estatal ante las instituciones correspondientes.
+Es importante que las comunidades puedan registrar y consultar reportes o incidencias en una plataforma tecnológica porque mejora la comunicación entre los ciudadanos y las instituciones. A través de estas plataformas, las personas pueden informar problemas como daños en vías, fallas de servicios o situaciones de riesgo de forma rápida y organizada. Esto permite que las autoridades reciban la información de manera más eficiente y puedan actuar a tiempo. Además, al quedar los reportes registrados, se puede hacer seguimiento a cada caso hasta su solución. También es útil porque los ciudadanos pueden consultar el estado de las incidencias y estar informados sobre lo que ocurre en su entorno. Esto genera mayor transparencia en la gestión pública. Asimismo, ayuda a priorizar las necesidades más urgentes de la comunidad. En general, estas herramientas fortalecen la participación ciudadana y mejoran la calidad de vida.

@@ -1,13 +1,5 @@
 Reflexión - Semana 6
 
-Es sumamente importante que las plataformas tecnológicas reciban reportes ciudadanos de forma
-estructurada (como en formato JSON) por varios motivos cruciales. En primer lugar, la información
-estructurada permite que los sistemas informáticos procesen, clasifiquen y organizen los datos
-de manera automática sin necesidad de intervención manual inicial. Esto significa que un reporte
-sobre "Iluminación" puede ser derivado directamente al departamento de alumbrado público de forma
-inmediata, reduciendo tiempos de espera y optimizando los flujos de atención comunitaria.
+¿Por qué es importante que las plataformas tecnológicas puedan recibir reportes o información enviada por los ciudadanos de forma estructurada?
 
-Además, contar con datos estandarizados facilita el almacenamiento ordenado en bases de datos,
-haciendo posible generar estadísticas, gráficos de tendencias o mapas de calor de incidencias.
-Esto ayuda a las organizaciones sociales a argumentar sus necesidades con evidencias claras y
-promueve una toma de decisiones democrática, transparente y eficiente basada en hechos reales.
+Es importante que las plataformas tecnológicas puedan recibir reportes de los ciudadanos de forma estructurada porque así la información se organiza mejor y es más fácil de analizar. Cuando los datos llegan en formatos claros como JSON, los sistemas pueden procesarlos automáticamente sin errores. Esto permite responder más rápido a problemas como emergencias, daños o solicitudes de la comunidad. También ayuda a evitar confusiones, ya que cada dato tiene un lugar específico dentro de la información. Además, facilita que diferentes aplicaciones puedan usar esos mismos reportes sin necesidad de transformarlos manualmente. La información estructurada mejora la comunicación entre usuarios y sistemas. También permite generar estadísticas y tomar mejores decisiones basadas en datos reales. En general, hace que las plataformas sean más eficientes, ordenadas y útiles para la ciudadanía.
