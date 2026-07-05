@@ -1,0 +1,18 @@
+Iteración Simple - Planificación y Definición de Terminado (DoD)
+
+1. ¿Qué 2 tareas del backlog harías primero?
+   Haríamos primero las siguientes dos historias de usuario:
+   - Historia 1: Como ciudadano, quiero reportar una falta de alumbrado público o un bache en la calle a través de un formulario simple para que la comunidad y las autoridades conozcan la existencia del problema.
+   - Historia 2: Como coordinador comunitario, quiero recibir una notificación en Telegram cada vez que se registre un nuevo reporte ciudadano para poder revisarlo y gestionarlo rápidamente.
+
+2. ¿Por qué son las más importantes?
+   Son las más importantes porque constituyen el núcleo (MVP - Producto Mínimo Viable) del sistema de veeduría. Sin un canal para registrar las incidencias (Historia 1), no existe información que el sistema pueda procesar. Y sin una alerta oportuna de nuevo reporte (Historia 2), no se puede activar al equipo de veeduría para revisar el caso. Estas dos tareas habilitan el flujo inicial básico del servicio; las demás tareas (consultar listas, enviar resúmenes semanales) son mejoras que dependen de que este flujo base funcione correctamente.
+
+3. ¿Qué significa para ti que una tarea esté "terminada"?
+   Una tarea está "terminada" (Definition of Done) cuando cumple con todos los requisitos funcionales definidos en su historia de usuario, es completamente funcional, segura y está integrada en el repositorio del proyecto sin interferir con otras funciones.
+
+Criterios de Terminado (Definition of Done):
+- Funciona correctamente: La funcionalidad cumple su propósito (ej. se puede enviar el formulario o se recibe la notificación).
+- Libre de datos sensibles: Se ha verificado que no existan credenciales, tokens de Telegram o información privada real en el código.
+- Probado: Ha sido testeado manualmente bajo distintos escenarios (casos exitosos y manejo de errores de conexión).
+- Git Registrado: El código se encuentra debidamente integrado en la rama principal, documentado y guardado en Git con un commit descriptivo.

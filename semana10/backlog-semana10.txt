@@ -1,0 +1,15 @@
+Backlog de la Solución de Veeduría Comunitaria
+
+Historias de usuario priorizadas (de mayor a menor prioridad):
+
+1. [Alta Prioridad]
+Como ciudadano, quiero reportar una falta de alumbrado público o un bache en la calle a través de un formulario simple para que la comunidad y las autoridades conozcan la existencia del problema.
+
+2. [Alta-Media Prioridad]
+Como coordinador comunitario, quiero recibir una notificación en Telegram cada vez que se registre un nuevo reporte ciudadano para poder revisarlo y gestionarlo rápidamente.
+
+3. [Media Prioridad]
+Como miembro del equipo de veeduría, quiero consultar la lista de todos los reportes registrados para priorizar y planificar las jornadas de trabajo comunitario.
+
+4. [Baja Prioridad]
+Como ciudadano vecino, quiero recibir un resumen semanal de las incidencias resueltas para estar enterado de las mejoras realizadas en mi vecindario.
