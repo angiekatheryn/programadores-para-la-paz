@@ -1,9 +1,1 @@
-Las metodologías ágiles, la automatización con herramientas como n8n y canales de comunicación rápida como
-Telegram son fundamentales para potenciar la participación ciudadana y la organización comunitaria de forma
-eficiente. Por un lado, la agilidad permite priorizar las necesidades más urgentes del barrio o colectivo,
-abordándolas de manera iterativa para mostrar resultados rápidos y mantener motivados a los participantes.
-Por otro lado, la automatización con n8n reduce significativamente la carga administrativa de los coordinadores
-y veedores, permitiendo que las tareas repetitivas de notificación y registro se realicen solas y sin
-errores. Finalmente, canales masivos y accesibles como Telegram aseguran una comunicación inmediata, transparente
-y bidireccional, manteniendo a toda la comunidad informada de los avances en tiempo real de manera no intrusiva.
-Esta combinación fomenta la confianza, la trazabilidad y un sentido de corresponsabilidad en la gestión social.
+Las metodologías ágiles permiten organizar el trabajo de forma más eficiente, ya que facilitan la planificación, el seguimiento y la mejora continua de las actividades. La automatización ayuda a reducir tareas repetitivas y agiliza la comunicación entre los participantes. Además, canales como Telegram permiten compartir información de manera rápida y mantener a toda la comunidad informada. Estas herramientas favorecen la participación, porque las personas pueden interactuar fácilmente desde cualquier lugar. También mejoran la coordinación de los equipos y el cumplimiento de los objetivos. La retroalimentación constante hace posible identificar problemas y encontrar soluciones con mayor rapidez. En los procesos de participación ciudadana, esto fortalece la colaboración y la transparencia. En conjunto, estas estrategias contribuyen a una gestión más organizada, eficiente y cercana a las necesidades de la comunidad.
