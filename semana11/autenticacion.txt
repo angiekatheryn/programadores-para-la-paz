@@ -1,0 +1,7 @@
+El login es el proceso que permite verificar la identidad de un usuario antes de permitirle acceder al sistema.
+En una plataforma comunitaria, ciertas rutas y recursos deben protegerse estrictamente porque involucran la
+administración del sitio, la modificación de registros de causas o el acceso a datos internos del proyecto.
+Restringir estas rutas garantiza que personas no autorizadas no puedan alterar la información o realizar acciones
+maliciosas en nombre de otros. Asimismo, es vital proteger y no exponer información privada como contraseñas,
+teléfonos, direcciones, documentos de identidad o tokens de API de la plataforma. De esta manera, se resguarda
+la privacidad de la ciudadanía, se previene la suplantación de identidad y se asegura el uso correcto del sistema.

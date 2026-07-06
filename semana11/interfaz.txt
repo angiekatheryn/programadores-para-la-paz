@@ -1,0 +1,20 @@
+Diseño de la Interfaz Básica de la Plataforma
+
+La interfaz de usuario está diseñada para ser intuitiva, responsiva y simple, enfocándose en la facilidad de uso para los ciudadanos:
+
+1. Vista Principal (Feed de Causas Disponibles):
+   - Muestra una lista de tarjetas (cards) ordenadas cronológicamente o por nivel de apoyo.
+   - Cada tarjeta contiene el título de la causa, una descripción breve, la fecha de publicación y el estado actual de la misma.
+   
+2. Formulario para Crear una Causa:
+   - Se ubica en una sección o modal visible solo para usuarios autenticados.
+   - Incluye campos de entrada para el "Título de la Causa" (texto corto) y la "Descripción" (área de texto detallada).
+   - Un botón de acción "Publicar Causa" para registrar los datos.
+
+3. Botón para Apoyar una Causa:
+   - Cada tarjeta de causa cuenta con un botón interactivo (ej. un botón con un ícono de corazón o pulgar arriba).
+   - Este botón cambia de estado (activo/inactivo) cuando el usuario autenticado hace clic en él, registrando o retirando su apoyo de forma segura.
+
+4. Contador de Apoyos:
+   - Se muestra de manera adyacente al botón de apoyo en cada tarjeta de causa.
+   - Refleja dinámicamente el número total de registros asociados a esa causa específica en la base de datos (ej. "32 personas apoyan esta causa").

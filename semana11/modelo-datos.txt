@@ -1,0 +1,25 @@
+Modelo de Datos de la Plataforma Comunitaria
+
+Entidad: Causa Comunitarias (Incidencia/Propuesta)
+Campos principales:
+- id (Integer, Primary Key): Identificador único de la causa.
+- titulo (String): Nombre descriptivo de la propuesta o problema (ej. "Reconstrucción del Parque Infantil").
+- descripcion (Text): Detalle completo de la causa, necesidades y objetivos.
+- creador_id (Integer, Foreign Key): Referencia al usuario que registró la causa.
+- fecha_creacion (Timestamp): Fecha y hora en la que se publicó la causa.
+- estado (String): Estado de la causa (ej. "Activa", "En Proceso", "Completada").
+
+Propósito:
+Almacenar las iniciativas, proyectos o problemáticas de la comunidad para que sean visibles públicamente en la plataforma y se pueda interactuar con ellas.
+
+--------------------------------------------------
+
+Entidad: Apoyo (Voto/Firma)
+Campos principales:
+- id (Integer, Primary Key): Identificador único de la interacción de apoyo.
+- causa_id (Integer, Foreign Key): Relación con la causa que está recibiendo el apoyo.
+- usuario_id (Integer, Foreign Key): Relación con el usuario autenticado que brinda su apoyo.
+- fecha_apoyo (Timestamp): Fecha y hora en que se registró el apoyo.
+
+Propósito:
+Registrar los apoyos individuales que recibe cada causa comunitaria, permitiendo medir el interés y la prioridad de las iniciativas de manera transparente y sin duplicar votos.
