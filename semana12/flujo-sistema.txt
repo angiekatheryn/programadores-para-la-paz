@@ -1,0 +1,18 @@
+Flujo del Sistema "Petición en 3 Clics"
+
+El sistema funciona mediante los siguientes pasos claros para facilitar la organización comunitaria:
+
+1. Creación de la Causa (Primer Clic):
+   Un ciudadano u organización vecinal ingresa a la plataforma, completa un formulario simple con el título y la descripción del problema o propuesta de la comunidad, y hace clic en "Crear Causa".
+
+2. Registro y Almacenamiento en la Base de Datos:
+   El servidor de backend recibe la información y la guarda de forma segura en la base de datos (Entidad Causa), asignándole un ID único, una fecha de registro y un estado activo. La causa se muestra inmediatamente en la interfaz pública.
+
+3. Apoyo de la Comunidad (Segundo Clic):
+   Otros miembros de la comunidad ingresan a la plataforma, revisan la propuesta y, para manifestar su respaldo, hacen clic en el botón "Apoyar Causa". El sistema registra el apoyo vinculándolo a la causa y minimizando el uso de datos personales.
+
+4. Conteo Dinámico de Respaldos:
+   El sistema actualiza en tiempo real el contador de apoyos de la causa en la interfaz de usuario, realizando una consulta de agregación sobre la base de datos (contando la cantidad de registros en la Entidad Apoyo vinculados a esa causa).
+
+5. Generación del Documento Formal (Tercer Clic):
+   El creador de la causa (o un administrador) hace clic en el botón "Generar Petición PDF". El sistema recopila los datos de la causa, el número total de apoyos y genera automáticamente un archivo PDF formal estructurado, listo para ser descargado, impreso o presentado ante las autoridades locales.

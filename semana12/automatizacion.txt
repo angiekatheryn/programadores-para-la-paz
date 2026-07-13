@@ -1,0 +1,26 @@
+Diseño de Automatización con n8n y Telegram - "Petición en 3 Clics"
+
+1. ¿Qué evento activa la automatización?
+   El flujo se activa mediante un Webhook enviado por el backend del sistema cuando una causa registrada alcanza una meta mínima de apoyos establecidos (por ejemplo, 50 apoyos acumulados), indicando que está lista para su radicación.
+
+2. ¿Qué mensaje se envía?
+   Se envía una notificación formateada a un canal público de Telegram de la comunidad para celebrar el logro y motivar la descarga del documento:
+
+   --------------------------------------------------
+   📢 *¡NUEVA PETICIÓN COMUNITARIA LISTA!* 📢
+
+   *Causa:* "Instalación de luminarias en el parque principal"
+   *Descripción:* Solicitud formal para mejorar la iluminación y seguridad nocturna de la zona común.
+   *Total de Apoyos:* 52 ciudadanos han respaldado la causa.
+   
+   📄 *Estado:* El documento de petición en formato PDF ha sido generado automáticamente de forma exitosa y está listo para ser descargado y radicado ante la administración local.
+
+   👉 *Ver y descargar en:* [Enlace a la plataforma]
+   --------------------------------------------------
+
+3. ¿Qué información no debe enviarse por seguridad?
+   Para cumplir con el principio de minimización de datos y proteger a los participantes de posibles acosos, filtraciones o uso indebido de su información, no se debe enviar bajo ningún concepto:
+   - Nombres, apellidos o firmas digitalizadas de los ciudadanos que brindaron su apoyo.
+   - Números de identificación nacional o cédulas de los firmantes.
+   - Direcciones particulares, números de teléfono o correos electrónicos de los ciudadanos.
+   - Credenciales de acceso o tokens internos del servidor.

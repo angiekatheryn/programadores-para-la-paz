@@ -1,0 +1,23 @@
+Modelo de Datos Simple - "Petición en 3 Clics"
+
+Entidad: Causa
+Campos principales:
+- id (Integer, Primary Key): Identificador único de la causa.
+- titulo (String): Título descriptivo de la causa o propuesta de la comunidad.
+- descripcion (Text): Explicación detallada de la problemática y el objetivo de la petición.
+- fecha (Timestamp): Fecha y hora en la que se creó y registró la causa.
+
+Propósito:
+Esta entidad sirve para registrar y almacenar cada una de las iniciativas, peticiones o problemáticas que los ciudadanos proponen en la plataforma. Permite que las causas sean públicas, listadas y accesibles para que otros miembros de la comunidad puedan leerlas y decidir si las apoyan.
+
+--------------------------------------------------
+
+Entidad: Apoyo
+Campos principales:
+- id (Integer, Primary Key): Identificador único de cada registro de apoyo.
+- causa_id (Integer, Foreign Key): Referencia o relación con el ID de la causa a la que se está apoyando.
+- nombre (String): Nombre de la persona que apoya la causa (o firma), minimizando la recolección de datos sensibles.
+- fecha (Timestamp): Fecha y hora en la que se registró el apoyo.
+
+Propósito:
+Esta entidad sirve para almacenar de forma individual el respaldo que un ciudadano brinda a una causa específica. Al relacionarse con la entidad Causa a través del campo causa_id, permite al sistema contar el número total de apoyos para generar el documento PDF final y verificar la legitimidad de las firmas de manera organizada.
