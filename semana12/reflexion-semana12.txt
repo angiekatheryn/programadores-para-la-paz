@@ -1,10 +1,1 @@
-Durante este curso aprendí que la tecnología es un motor fundamental para democratizar los procesos de toma de
-decisiones y facilitar la organización comunitaria de manera ágil y directa. Herramientas sencillas de usar, como
-la plataforma "Petición en 3 Clics", permiten que cualquier ciudadano plantee una problemática local y consiga
-apoyos rápidamente sin necesidad de burocracias complejas. Asimismo, comprendí la importancia de la seguridad
-y la privacidad mediante la minimización de datos personales para proteger a los participantes de la plataforma.
-La automatización de tareas con herramientas como n8n y el uso de mensajería instantánea a través de Telegram
-facilitan que la información llegue en tiempo real a las personas indicadas sin saturar los canales de comunicación.
-Finalmente, la generación automatizada de documentos en formato PDF formaliza los esfuerzos comunitarios en
-solicitudes válidas que pueden presentarse de forma oficial ante las autoridades del Estado. En conclusión,
-la combinación de desarrollo web y automatización fortalece la democracia participativa desde las bases del vecindario.
+Durante este curso aprendí que la tecnología puede ser una herramienta muy útil para fortalecer la participación ciudadana y la organización comunitaria. Comprendí que las plataformas digitales facilitan la comunicación entre las personas y las entidades públicas. También aprendí la importancia de proteger los datos personales y utilizar únicamente la información necesaria. Conocí el funcionamiento de herramientas como Git, GitHub, Node.js, Express, HTML y CSS para desarrollar aplicaciones. Además, entendí que una buena solución tecnológica debe ser accesible, segura y fácil de usar. El proyecto "Petición en 3 Clics" me permitió ver cómo una aplicación puede ayudar a una comunidad a organizar causas y ejercer sus derechos. Igualmente, aprendí el valor de las metodologías ágiles y el trabajo colaborativo durante el desarrollo de un proyecto. En conclusión, este curso me enseñó que la tecnología puede generar un impacto social positivo cuando se utiliza de manera responsable para resolver necesidades reales de la comunidad.
